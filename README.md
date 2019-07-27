@@ -1,3 +1,3 @@
-# ZalTV VOD by Rizaldi.web.id
+# ZalTV VOD
 Repository for ZalTV VOD from Rizaldi.web.id
 
