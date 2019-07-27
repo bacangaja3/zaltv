@@ -1,2 +1,3 @@
-# zaltv
-Preview ZalTV Donatur from rizaldi.web.id
+# ZalTV VOD by Rizaldi.web.id
+Repository for ZalTV VOD from Rizaldi.web.id
+
