@@ -19,26 +19,14 @@ Terimakasih
 
 #EXTM3U
 
-#EXTINF:0 tvg-logo="https://iptv.rizaldi.web.id/zaltv.png" group-title="Notice Welcome",Welcome Free User
-https://raw.githubusercontent.com/bacangaja3/zaltv/master/opening-dirgahayu.mp4
-#EXTINF:0 tvg-logo="https://iptv.rizaldi.web.id/zaltv.png" group-title="Notice Welcome",Link mati?
-https://raw.githubusercontent.com/bacangaja3/zaltv/master/opening-dirgahayu.mp4
-#EXTINF:0 tvg-logo="https://iptv.rizaldi.web.id/zaltv.png" group-title="Notice Welcome",Ingin membantu dengan donasi?
-https://raw.githubusercontent.com/bacangaja3/zaltv/master/opening-dirgahayu.mp4
-#EXTINF:0 tvg-logo="https://iptv.rizaldi.web.id/zaltv.png" group-title="Notice Welcome",Jangan sungkan kontak saya
-https://raw.githubusercontent.com/bacangaja3/zaltv/master/opening-dirgahayu.mp4
-#EXTINF:0 tvg-logo="https://iptv.rizaldi.web.id/zaltv.png" group-title="Notice Welcome",DONASI: +628989501158
-https://raw.githubusercontent.com/bacangaja3/zaltv/master/opening-dirgahayu.mp4
-#EXTINF:0 tvg-logo="https://iptv.rizaldi.web.id/zaltv.png" group-title="Notice Welcome",Selain info donasi slow respon
-https://raw.githubusercontent.com/bacangaja3/zaltv/master/opening-dirgahayu.mp4
-#EXTINF:0 tvg-logo="https://iptv.rizaldi.web.id/zaltv.png" group-title="Notice Welcome",Playlist akan selalu saya update
-https://raw.githubusercontent.com/bacangaja3/zaltv/master/opening-dirgahayu.mp4
-#EXTINF:0 tvg-logo="https://iptv.rizaldi.web.id/zaltv.png" group-title="Notice Welcome",Selama playlist ini tidak masuk ke publik
-https://raw.githubusercontent.com/bacangaja3/zaltv/master/opening-dirgahayu.mp4
-#EXTINF:0 tvg-logo="https://iptv.rizaldi.web.id/zaltv.png" group-title="Notice Welcome",No Pastebin, No Mirroring!
-https://raw.githubusercontent.com/bacangaja3/zaltv/master/opening-dirgahayu.mp4
-#EXTINF:0 tvg-logo="https://iptv.rizaldi.web.id/zaltv.png" group-title="Notice Welcome",https://rizaldi.web.id
-https://raw.githubusercontent.com/bacangaja3/zaltv/master/opening-dirgahayu.mp4
+#EXTINF:0 tvg-logo="https://iptv.rizaldi.web.id/zaltv.png" group-title="Notice Welcome",Code by iptv.my.id
+https://raw.githubusercontent.com/bacangaja3/zaltv/video/opening-iptv.mp4
+#EXTINF:0 tvg-logo="https://iptv.rizaldi.web.id/zaltv.png" group-title="Notice Welcome",Playlist by Exodiver (Github)
+https://raw.githubusercontent.com/bacangaja3/zaltv/video/opening-iptv.mp4
+#EXTINF:0 tvg-logo="https://iptv.rizaldi.web.id/zaltv.png" group-title="Notice Welcome",iptv.my.id doesnt own any playlist here
+https://raw.githubusercontent.com/bacangaja3/zaltv/video/opening-iptv.mp4
+#EXTINF:0 tvg-logo="https://iptv.rizaldi.web.id/zaltv.png" group-title="Notice Welcome",Code monthly update at iptv.my.id
+https://raw.githubusercontent.com/bacangaja3/zaltv/video/opening-iptv.mp4
 
 
 
