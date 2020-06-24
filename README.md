@@ -8,3 +8,5 @@ The content owned by several iptv provider, Rizaldi.web.id doesn't own any mater
 - Zalvision owned by Zalvision IPTV;
 
 Free M3U Will updated soon
+
+https://iptv.my.id/ is sharing domain with several playlist creator at Telegram Group.
